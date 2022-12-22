@@ -9,3 +9,6 @@
 - [Lesson 6: Basic Configurations](lesson-06.md)
 - [Lesson 7: Getting started with JOBS](lesson-07.md)
 - [Lesson 8: Jenkins integration with GIT (SCM)](lesson-08.md)
+- [Lesson 9: How to add GitHub Credentials](lesson-09.md)
+- [Lesson 10: Jenkins integration with GIT (SCM)](lesson-10.md)
+- [Lesson 11,12: What is Automated Deployment (Step by Step)](lesson-11.md)
