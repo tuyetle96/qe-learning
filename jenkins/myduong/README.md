@@ -14,3 +14,5 @@
 - [Lesson 11,12: What is Automated Deployment (Step by Step)](lesson-11.md)
 - [Lesson 13: Notifications - How to send Email from Jenkins](lesson-13.md)
 - [Lesson 14: What is Pipeline in Jenkins (DevOps)](lesson-14.md)
+- [Lesson 15: How to setup DELIVERY PIPELINE in Jenkins (Step by Step)] << Skip >>
+- [Lesson 16: How to setup BUILD PIPELINE in Jenkins (Step by Step)](lesson-16.md)
