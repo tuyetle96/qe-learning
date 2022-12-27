@@ -12,3 +12,5 @@
 - [Lesson 9: How to add GitHub Credentials](lesson-09.md)
 - [Lesson 10: Jenkins integration with GIT (SCM)](lesson-10.md)
 - [Lesson 11,12: What is Automated Deployment (Step by Step)](lesson-11.md)
+- [Lesson 13: Notifications - How to send Email from Jenkins](lesson-13.md)
+- [Lesson 14: What is Pipeline in Jenkins (DevOps)](lesson-14.md)
