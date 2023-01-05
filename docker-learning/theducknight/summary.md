@@ -21,6 +21,6 @@
     1. Truy cập [link](https://docker.com) và click vào Download docker desktop
 		2. Open và install file vừa tải về
 		3. Giao diện của Docker desktop
-    ![alt text](D:\learning\docker_learning\qe-learning\docker-learning\theducknight\images\docker_desktop_windows.png)
+		  ![img](images/docker_desktop_windows.png)
   
   - Linux: Sử dụng command và làm theo doc [link](https://docs.docker.com/desktop/install/linux-install/)
